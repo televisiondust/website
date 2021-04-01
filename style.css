@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Playfair+Display&display=swap');
+
+h2 {  
+    border-radius: 100%;
+    
+    color: white;
+
+    text-align: left;
+    text-shadow: 0 8px 0 rgba(purple, 0.8);
+    font-family: 'Fredoka One', cursive;;
+    font-size: xx-large;
+    font-weight: 200;
+    height: auto;
+}
